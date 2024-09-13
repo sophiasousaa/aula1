@@ -12,16 +12,26 @@ Então quando falamos de sistema de controle, um muito conhecido e utilizado, é
 ###  **GIT** - o cérebro do versionamento - 
   O Git é um sistema de controle de versão distribuído,o que significa que cada desenvolvedor possui uma cópia completa do histórico do projeto em sua máquina. Isso permite com que os membros da equipe consigam "voltar atrás" e recuperar o estado do sistema: como era ontem ou no ano passado, por exemplo. Conceitos-chave:
 **Repositório**: É como uma pasta onde o Git guarda todas as informações do seu projeto.
+
 **Commit**: É um ponto de salvamento. Cada vez que você salva suas alterações, você cria um novo commit.
+
 **Branch**: É como um ramo do seu projeto. Você pode criar diferentes branches para trabalhar em funcionalidades diferentes ao mesmo tempo.
+
 **Merge**: É quando você junta duas branches em uma só.
-Pull Request: É um pedido para que alguém revise e aceite as suas alterações em um projeto.
+
+**Pull Request:** É um pedido para que alguém revise e aceite as suas alterações em um projeto.
+
 ### **VSCODE** -
    Visual Studio Code é um editor de código super popular e personalizável. Ele tem diversas ferramentas e extensões que facilitam a vida na hora de escrever código. Mas porque usar o VSCODE??? 
+   
 **_Gratuito e Open Source:_** Disponível para todos e constantemente aprimorado pela comunidade.
+
 **_Leve e Rápido:_** Funciona bem em diferentes tipos de hardware.
+
 **_Extensível:_** Você pode adicionar funcionalidades através de extensões, como suporte a novas linguagens, temas e ferramentas.
+
 **_Integrado com Git:_** Facilita o controle de versão dos seus projetos.
+
 **_Debug:_** Permite encontrar e corrigir erros no seu código de forma eficiente.
 
 
