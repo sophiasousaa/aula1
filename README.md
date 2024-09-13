@@ -1,6 +1,7 @@
 # aula1
 ### **Git, Git Hub e VS Code** - 
-  Trabalhar em equipe e em projetos exige organização e controle. Algumas ferramentas essenciais para isso é o sistema de controle de versões. O sistema de controle funciona como um histórico completo com todas as alterações feitas no seu código. Essas ferramentas são essenciais para aumentar a produtividade e facilitar a colaboração de maneira eficiente. Além disso, quando fala-se de desenvolvimento de projetos web em equipe, é muito importante se atentar as boas práticas como: versionamento e documentação. O versionamento é um sistema de controle de mudanças que registra as diferentes versões de um arquivo ou conjunto de arquivos ao longo do tempo. É como criar um histórico completo de todas as alterações realizadas. 
+  Trabalhar em equipe e em projetos exige organização e controle. Algumas ferramentas essenciais para isso são os sistemas de controle de versões. O sistema de controle funciona como um histórico completo com todas as alterações feitas no seu código. Essas ferramentas são essenciais para aumentar a produtividade e facilitar a colaboração de maneira eficiente. Além disso, quando fala-se de desenvolvimento de projetos web em equipe, é muito importante se atentar as boas práticas como: versionamento e documentação. 
+  O **versionamento** é um sistema de controle de mudanças que registra as diferentes versões de um arquivo ou conjunto de arquivos ao longo do tempo. É como criar um histórico completo de todas as alterações realizadas. 
 Então quando falamos de sistema de controle, um muito conhecido e utilizado, é o GIT, mas além dele também utiliza-se o GITHUB e o VSCODE. Entendo isso, é importante nos atentarmos a o que cada um deles é e o porque de sua utilização: 
 
  ### **GITHUB**:
